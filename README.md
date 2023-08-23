@@ -1,2 +1,2 @@
 # Projects
-My majority of the projects are based on Python for Data Science 
+Let's change the world eith Java
