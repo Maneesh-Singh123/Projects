@@ -1,2 +1,2 @@
 # Projects
-Let's change the world eith Java
+Let's change the world with Java
